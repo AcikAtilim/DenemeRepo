@@ -11,6 +11,8 @@ Rapor düzenlendi.
 
 Bu bir deneme repodur. Bu dosyayı düzenleyip Pull Request atabilirsiniz. 
 
+Deneme PR
+
 TadPole here!
 
 Yetkin Ünal
@@ -29,4 +31,3 @@ From Deniz Kıratlı
 Deneme pull request için bir şey yazmam gerekiyormuş.
 
 Bunu Atakan yazdı.
-
