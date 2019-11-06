@@ -3,6 +3,12 @@ Editted by Emre..
 
 Bir commit de benden olsun oyleyse #Bir_Ogrenci
 
+Bu bir deneme repodur.
+
+Bu dosyayı düzenleyip Pull Request atabilirsiniz.
+
+Rapor düzenlendi.
+
 Bu bir deneme repodur. Bu dosyayı düzenleyip Pull Request atabilirsiniz. 
 
 Yetkin Ünal
