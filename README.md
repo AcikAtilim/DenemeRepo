@@ -1,5 +1,6 @@
 # DenemeRepo
 Editted by Emre..
+test1
 
 Bir commit de benden olsun oyleyse #Bir_Ogrenci
 
